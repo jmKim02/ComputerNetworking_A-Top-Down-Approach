@@ -1,7 +1,7 @@
 # ComputerNetworking_A-Top-Down-Approach(8th)
 컴퓨터 네트워킹: 하향식 접근(제 8판)에 대한 내용을 정리한 레포지토리입니다.   
 
-![image](https://github.com/jmKim02/ComputerNetworking_A-Top-Down-Approach/assets/174222202/68ff95d8-11f5-4aa9-b8dc-a3fd9b56cdbc)
+<p align="center"><img width="600" src="https://github.com/jmKim02/ComputerNetworking_A-Top-Down-Approach/assets/174222202/68ff95d8-11f5-4aa9-b8dc-a3fd9b56cdbc">
 
 <br/>
 
